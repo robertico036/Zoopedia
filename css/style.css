@@ -1,0 +1,137 @@
+body {
+	margin: 0;
+	background-color: rgb(185, 255, 252);
+}
+h1 {
+	color: brown;
+	color: blueviolet;
+	margin-left: 3vw;
+	margin-top: 80px;
+}
+header button {
+	margin-left: 90vw;
+	margin-top: -100px;
+	margin-bottom: 6vh;
+	height: 3vh;
+	width: 5vw;
+}
+.bg {
+	width: 100%;
+    z-index: -100;
+    position: fixed;
+    opacity: 0.5;
+    top: 0;
+    left: 0;
+}
+h3 img {
+	width: 22vw;
+	height: 80vh;
+	margin-left: 60vw;
+}
+h3 p {
+	color: red;
+	text-align: center;
+	width: 45vw;
+	height: 25vh;
+	margin-left: 5vw;
+	margin-top:  -65vh;
+    
+}
+h4 img {
+	width: 35vw;
+	height: 35vh;
+	margin-left: 60vw;
+	margin-top: 19vh;
+}
+h4 p {
+	color: red;
+	text-align: center;
+	width: 45vw;
+	height: 25vh;
+	margin-left: 0vw;
+	margin-top:  -25vh;
+}
+h5 img {
+	margin-left: 9vw;
+	margin-top: 40vh;
+	width: 28vw;
+	height: 55vh;
+}
+h5 p {
+	color: blue;
+	text-align: center;
+	width: 45vw;
+	height: 25vh;
+	margin-left: 45vw;
+	margin-top:  -25vh;
+}
+h6 img{
+    width: 35vw;
+	height: 35vh;
+	margin-left: 60vw;
+	margin-top:  10vh;
+}
+h6 p {
+	color:  red;
+	text-align: center;
+	width: 45vw;
+	height: 25vh;
+	margin-right: 95vh;
+	margin-left: 0vw;
+	margin-top:  -25vh;
+}
+div p {
+	color: blue;
+	text-align: center;
+	width: 45vw;
+	height: 25vh;
+	margin-left: 45vw;
+	margin-top:  -25vh;
+}
+div img {
+	width: 40vw;
+	height: 40vh;
+}
+footer button {
+	margin-left: 90vw;
+	margin-top: -100px;
+	margin-bottom: 6vh;
+	height: 3vh;
+	width: 5vw;
+}
+footer {
+	margin: 10px;
+}
+.link {
+    margin-left: 90vw;
+}
+.donate_footer {
+	margin-top: 85vh;
+}
+.menu-button {
+	margin-left: 90vw;
+}
+.donate_invoice {
+	border: 4px solid green;
+	width: 80vw;
+	height: 90vh;
+	margin: 10vw;
+	text-align: center;
+	border-radius: 20px;
+}
+.tiger-p {
+	color: rgb(12, 12, 141);
+	margin-top: 10vh;
+	margin-left: 20vw;
+}
+.tiger {
+	padding: 10vh;
+}
+.donate-now {
+	margin-left: 10vh;
+}
+.pages {
+	margin: 5vh;
+	display: flex;
+	margin-left: 40vw;
+}
